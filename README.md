@@ -1,2 +1,2 @@
 # hugging-face-transformer-zh-tour
-首先是中文的翻译啦，然后是模型用到中文上面
+这个repo首先是中文解释hugging face的transformers包，接着是把这些模型应用到中文上面
